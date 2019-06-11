@@ -21,7 +21,9 @@ def GameFeatures(url):
 		referee = doc.findAll('table', id='linups')[1].a.text.strip()
 		stadium = doc.findAll('table', 'match-stadium')[0].findAll('td')[1].text
 		city = doc.findAll('table', 'match-stadium')[0].findAll('td')[3].text
-		return home_team, away_team, home_team_score, away_team_score, referee, stadium, city
+		datetime = doc.findAll('li', 'gamehead')[1].text
+		game = doc.findAll('li', 'gamehead')[4].text.strip()[-1]
+		return home_team, away_team, home_team_score, away_team_score, referee, stadium, city, datetime, game
 
 	def prepareEventsTag(doc):
 		'''
@@ -96,23 +98,33 @@ def GameFeatures(url):
 	                away.append((id,name))
 	    return home, away
 
+	def getStats(doc):
+	    statsHome={}
+	    statsAway={}
+	    stats = doc.findAll('table', 'match_stats_center')[0].findAll('tr')
+	    for n in range(len(stats)):
+	        stat = stats[n].get('class')[0]
+	        home_stat = stats[n].findAll('td', 'stat_value_number_team_A')[0].text.strip()
+	        away_stat = stats[n].findAll('td', 'stat_value_number_team_B')[0].text.strip()
+	        statsHome[stat] = home_stat
+	        statsAway[stat] = away_stat
+	    return statsHome, statsAway
+
 
 	'''
-	This function captures soccer games features from academiadasapostasbrasil.com. The input is the URL from a game and the output are:
-	home_team, away_team, home_team_score, away_team_score, referee, stadium, city,eventList1st, eventList2nd, lineupList, sublineupList
+	This function captures features
 	'''
 	from requests import get
 	from bs4 import BeautifulSoup
 
 	doc = prepareDoc(url)
-	home_team, away_team, home_team_score, away_team_score, referee, stadium, city = getInfo(doc)
+	home_team, away_team, home_team_score, away_team_score, referee, stadium, city, datetime, game = getInfo(doc)
 	events1st, events2nd = prepareEventsTag(doc)	
 	eventList1st = getEvents(events1st)
 	eventList2nd = getEvents(events2nd)
 	lineup, sublineup = prepareLineup(doc)
 	lineupList = getLineup(lineup)
 	sublineupList = getLineup(sublineup)
+	statsHome, statsAway = getStats(doc)
 
-	return home_team, away_team, home_team_score, away_team_score, referee, stadium, city,eventList1st, eventList2nd, lineupList, sublineupList 
-
-
+	return home_team, away_team, home_team_score, away_team_score, referee, stadium, city, datetime, game, eventList1st, eventList2nd, lineupList, sublineupList, statsHome, statsAway
