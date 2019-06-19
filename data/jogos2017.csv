@@ -1,0 +1,381 @@
+,data,time_casa,time_visitante,resultado,id_partida,link
+0,13/05/2017 16:00h,Flamengo,Atlético MG,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/atletico-mg/2418967/1/live
+1,13/05/2017 19:00h,Corinthians,Chapecoense,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/chapecoense/2418969/1/live
+2,14/05/2017 11:00h,Fluminense,Santos,3-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/santos/2418966/1/live
+3,14/05/2017 16:00h,Palmeiras,Vasco,4-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/vasco/2418968/1/live
+4,14/05/2017 16:00h,Cruzeiro,São Paulo,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/sao-paulo/2418970/1/live
+5,14/05/2017 16:00h,Bahia,Atlético PR,6-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/atletico-pr/2418973/1/live
+6,14/05/2017 16:00h,Ponte Preta,Sport,4-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/sport/2418974/1/live
+7,14/05/2017 16:00h,Avaí,Vitória,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/vitoria/2418975/1/live
+8,14/05/2017 19:00h,Grêmio,Botafogo,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/botafogo/2418972/1/live
+9,15/05/2017 20:00h,Coritiba,Atlético GO,4-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/atletico-go/2418971/1/live
+10,20/05/2017 16:00h,Santos,Coritiba,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/coritiba/2418978/1/live
+11,20/05/2017 19:00h,Atlético GO,Flamengo,0-3,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/flamengo/2418984/1/live
+12,20/05/2017 19:00h,Chapecoense,Palmeiras,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/palmeiras/2418985/1/live
+13,21/05/2017 11:00h,Vasco,Bahia,2-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/bahia/2418977/1/live
+14,21/05/2017 16:00h,Atlético MG,Fluminense,1-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/fluminense/2418980/1/live
+15,21/05/2017 16:00h,Atlético PR,Grêmio,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/gremio/2418981/1/live
+16,21/05/2017 16:00h,Vitória,Corinthians,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/corinthians/2418983/1/live
+17,21/05/2017 18:00h,Botafogo,Ponte Preta,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/ponte-preta/2418976/1/live
+18,21/05/2017 19:00h,Sport,Cruzeiro,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/cruzeiro/2418982/1/live
+19,22/05/2017 20:00h,São Paulo,Avaí,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/avai/2418979/1/live
+20,27/05/2017 16:00h,Vasco,Fluminense,3-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/fluminense/2418987/1/live
+21,27/05/2017 19:00h,São Paulo,Palmeiras,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/palmeiras/2418989/1/live
+22,27/05/2017 21:00h,Vitória,Coritiba,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/coritiba/2418993/1/live
+23,28/05/2017 11:00h,Atlético MG,Ponte Preta,2-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/ponte-preta/2418990/1/live
+24,28/05/2017 16:00h,Santos,Cruzeiro,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/cruzeiro/2418988/1/live
+25,28/05/2017 16:00h,Atlético PR,Flamengo,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/flamengo/2418991/1/live
+26,28/05/2017 16:00h,Atlético GO,Corinthians,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/corinthians/2418994/1/live
+27,28/05/2017 18:00h,Sport,Grêmio,4-3,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/gremio/2418992/1/live
+28,28/05/2017 19:00h,Botafogo,Bahia,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/bahia/2418986/1/live
+29,29/05/2017 20:00h,Chapecoense,Avaí,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/avai/2418995/1/live
+30,03/06/2017 16:00h,Coritiba,Atlético PR,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/atletico-pr/2419001/1/live
+31,03/06/2017 18:00h,Fluminense,Vitória,2-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/vitoria/2418996/1/live
+32,03/06/2017 19:00h,Corinthians,Santos,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/santos/2418999/1/live
+33,04/06/2017 11:00h,Flamengo,Botafogo,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/botafogo/2418997/1/live
+34,04/06/2017 11:00h,Avaí,Sport,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/sport/2419005/1/live
+35,04/06/2017 16:00h,Palmeiras,Atlético MG,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/atletico-mg/2418998/1/live
+36,04/06/2017 16:00h,Grêmio,Vasco,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/vasco/2419002/1/live
+37,04/06/2017 16:00h,Ponte Preta,São Paulo,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/sao-paulo/2419004/1/live
+38,04/06/2017 19:00h,Cruzeiro,Chapecoense,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/chapecoense/2419000/1/live
+39,05/06/2017 20:00h,Bahia,Atlético GO,3-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/atletico-go/2419003/1/live
+40,06/06/2017 20:00h,Fluminense,Atlético PR,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/atletico-pr/2419006/1/live
+41,07/06/2017 19:30h,Atlético MG,Avaí,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/avai/2419010/1/live
+42,07/06/2017 19:30h,Coritiba,Palmeiras,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/palmeiras/2419011/1/live
+43,07/06/2017 21:00h,Santos,Botafogo,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/botafogo/2419008/1/live
+44,07/06/2017 21:45h,Vasco,Corinthians,2-5,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/corinthians/2419007/1/live
+45,07/06/2017 21:45h,Sport,Flamengo,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/flamengo/2419012/1/live
+46,08/06/2017 19:30h,São Paulo,Vitória,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/vitoria/2419009/1/live
+47,08/06/2017 19:30h,Atlético GO,Ponte Preta,3-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/ponte-preta/2419014/1/live
+48,08/06/2017 20:00h,Chapecoense,Grêmio,3-6,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/gremio/2419015/1/live
+49,08/06/2017 21:00h,Bahia,Cruzeiro,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/cruzeiro/2419013/1/live
+50,10/06/2017 16:00h,Palmeiras,Fluminense,3-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/fluminense/2419018/1/live
+51,10/06/2017 19:00h,Vasco,Sport,2-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/sport/2419017/1/live
+52,11/06/2017 11:00h,Botafogo,Coritiba,2-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/coritiba/2419016/1/live
+53,11/06/2017 16:00h,Corinthians,São Paulo,3-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/sao-paulo/2419019/1/live
+54,11/06/2017 16:00h,Vitória,Atlético MG,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/atletico-mg/2419023/1/live
+55,11/06/2017 16:00h,Ponte Preta,Chapecoense,3-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/chapecoense/2419024/1/live
+56,11/06/2017 16:00h,Avaí,Flamengo,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/flamengo/2419025/1/live
+57,11/06/2017 18:30h,Cruzeiro,Atlético GO,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/atletico-go/2419020/1/live
+58,11/06/2017 19:00h,Atlético PR,Santos,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/santos/2419021/1/live
+59,12/06/2017 20:00h,Grêmio,Bahia,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/bahia/2419022/1/live
+60,14/06/2017 19:30h,Atlético MG,Atlético PR,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/atletico-pr/2419030/1/live
+61,14/06/2017 19:30h,Sport,São Paulo,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/sao-paulo/2419032/1/live
+62,14/06/2017 19:30h,Vitória,Botafogo,2-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/botafogo/2419033/1/live
+63,14/06/2017 19:30h,Atlético GO,Avaí,3-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/avai/2419034/1/live
+64,14/06/2017 21:00h,Flamengo,Ponte Preta,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/ponte-preta/2419027/1/live
+65,14/06/2017 21:45h,Santos,Palmeiras,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/palmeiras/2419028/1/live
+66,14/06/2017 21:45h,Corinthians,Cruzeiro,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/cruzeiro/2419029/1/live
+67,14/06/2017 21:45h,Chapecoense,Vasco,2-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/vasco/2419035/1/live
+68,15/06/2017 16:00h,Coritiba,Bahia,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/bahia/2419031/1/live
+69,15/06/2017 21:00h,Fluminense,Grêmio,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/gremio/2419026/1/live
+70,17/06/2017 16:00h,Atlético GO,Atlético PR,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/atletico-pr/2419044/1/live
+71,17/06/2017 19:00h,Vasco,Avaí,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/avai/2419037/1/live
+72,17/06/2017 21:00h,Santos,Ponte Preta,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/ponte-preta/2419038/1/live
+73,18/06/2017 11:00h,Coritiba,Corinthians,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/corinthians/2419041/1/live
+74,18/06/2017 16:00h,Fluminense,Flamengo,2-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/flamengo/2419036/1/live
+75,18/06/2017 16:00h,São Paulo,Atlético MG,1-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/atletico-mg/2419039/1/live
+76,18/06/2017 16:00h,Bahia,Palmeiras,2-4,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/palmeiras/2419043/1/live
+77,18/06/2017 16:00h,Chapecoense,Botafogo,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/botafogo/2419045/1/live
+78,18/06/2017 19:00h,Sport,Vitória,1-3,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/vitoria/2419042/1/live
+79,19/06/2017 20:00h,Cruzeiro,Grêmio,3-3,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/gremio/2419040/1/live
+80,21/06/2017 19:30h,Vitória,Santos,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/santos/2419053/1/live
+81,21/06/2017 21:00h,Botafogo,Vasco,3-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/vasco/2419046/1/live
+82,21/06/2017 21:00h,Palmeiras,Atlético GO,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/atletico-go/2419048/1/live
+83,21/06/2017 21:45h,Atlético MG,Sport,2-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/sport/2419050/1/live
+84,21/06/2017 21:45h,Atlético PR,São Paulo,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/sao-paulo/2419051/1/live
+85,21/06/2017 21:45h,Avaí,Fluminense,0-3,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/fluminense/2419055/1/live
+86,22/06/2017 19:30h,Corinthians,Bahia,3-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/bahia/2419049/1/live
+87,22/06/2017 19:30h,Ponte Preta,Cruzeiro,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/cruzeiro/2419054/1/live
+88,22/06/2017 21:00h,Flamengo,Chapecoense,5-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/chapecoense/2419047/1/live
+89,22/06/2017 21:00h,Grêmio,Coritiba,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/coritiba/2419052/1/live
+90,24/06/2017 19:00h,Santos,Sport,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/sport/2419058/1/live
+91,25/06/2017 11:00h,Vasco,Atlético GO,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/atletico-go/2419057/1/live
+92,25/06/2017 16:00h,São Paulo,Fluminense,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/fluminense/2419059/1/live
+93,25/06/2017 16:00h,Cruzeiro,Coritiba,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/coritiba/2419060/1/live
+94,25/06/2017 16:00h,Atlético PR,Vitória,4-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/vitoria/2419061/1/live
+95,25/06/2017 16:00h,Grêmio,Corinthians,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/corinthians/2419062/1/live
+96,25/06/2017 16:00h,Ponte Preta,Palmeiras,1-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/palmeiras/2419064/1/live
+97,25/06/2017 18:30h,Bahia,Flamengo,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/flamengo/2419063/1/live
+98,25/06/2017 19:00h,Chapecoense,Atlético MG,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/atletico-mg/2419065/1/live
+99,26/06/2017 20:00h,Botafogo,Avaí,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/avai/2419056/1/live
+100,01/07/2017 16:00h,Palmeiras,Grêmio,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/gremio/2419068/1/live
+101,01/07/2017 19:00h,Atlético GO,Santos,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/santos/2419074/1/live
+102,02/07/2017 16:00h,Flamengo,São Paulo,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/sao-paulo/2419067/1/live
+103,02/07/2017 16:00h,Corinthians,Botafogo,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/botafogo/2419069/1/live
+104,02/07/2017 16:00h,Atlético MG,Cruzeiro,3-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/cruzeiro/2419070/1/live
+105,02/07/2017 16:00h,Sport,Atlético PR,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/atletico-pr/2419072/1/live
+106,02/07/2017 16:00h,Vitória,Bahia,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/bahia/2419073/1/live
+107,02/07/2017 19:00h,Coritiba,Vasco,2-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/vasco/2419071/1/live
+108,02/07/2017 19:00h,Avaí,Ponte Preta,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/ponte-preta/2419075/1/live
+109,03/07/2017 20:00h,Fluminense,Chapecoense,3-3,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/chapecoense/2419066/1/live
+110,08/07/2017 16:00h,Atlético GO,Vitória,1-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/vitoria/2419084/1/live
+111,08/07/2017 18:00h,Vasco,Flamengo,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/flamengo/2419077/1/live
+112,08/07/2017 19:00h,Corinthians,Ponte Preta,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/ponte-preta/2419079/1/live
+113,09/07/2017 11:00h,Chapecoense,Atlético PR,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/atletico-pr/2419085/1/live
+114,09/07/2017 16:00h,Cruzeiro,Palmeiras,3-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/palmeiras/2419080/1/live
+115,09/07/2017 16:00h,Grêmio,Avaí,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/avai/2419082/1/live
+116,09/07/2017 16:00h,Bahia,Fluminense,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/fluminense/2419083/1/live
+117,09/07/2017 19:00h,Botafogo,Atlético MG,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/atletico-mg/2419076/1/live
+118,09/07/2017 19:00h,Santos,São Paulo,3-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/sao-paulo/2419078/1/live
+119,10/07/2017 20:00h,Coritiba,Sport,0-3,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/sport/2419081/1/live
+120,12/07/2017 19:30h,Atlético MG,Santos,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/santos/2419090/1/live
+121,12/07/2017 19:30h,Ponte Preta,Bahia,0-3,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/bahia/2419094/1/live
+122,12/07/2017 21:00h,Fluminense,Botafogo,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/botafogo/2419086/1/live
+123,12/07/2017 21:45h,Palmeiras,Corinthians,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/corinthians/2419088/1/live
+124,12/07/2017 21:45h,Atlético PR,Cruzeiro,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/cruzeiro/2419091/1/live
+125,12/07/2017 21:45h,Vitória,Vasco,1-4,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/vasco/2419093/1/live
+126,13/07/2017 19:30h,Flamengo,Grêmio,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/gremio/2419087/1/live
+127,13/07/2017 19:30h,São Paulo,Atlético GO,2-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/atletico-go/2419089/1/live
+128,13/07/2017 19:30h,Sport,Chapecoense,3-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/chapecoense/2419092/1/live
+129,13/07/2017 21:00h,Avaí,Coritiba,1-4,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/coritiba/2419095/1/live
+130,15/07/2017 19:00h,Corinthians,Atlético PR,2-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/atletico-pr/2419099/1/live
+131,16/07/2017 11:00h,Palmeiras,Vitória,4-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/vitoria/2419098/1/live
+132,16/07/2017 16:00h,Vasco,Santos,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/santos/2419097/1/live
+133,16/07/2017 16:00h,Cruzeiro,Flamengo,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/flamengo/2419100/1/live
+134,16/07/2017 16:00h,Grêmio,Ponte Preta,3-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/ponte-preta/2419102/1/live
+135,16/07/2017 16:00h,Atlético GO,Atlético MG,1-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/atletico-mg/2419104/1/live
+136,16/07/2017 16:00h,Chapecoense,São Paulo,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/sao-paulo/2419105/1/live
+137,16/07/2017 19:00h,Coritiba,Fluminense,1-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/fluminense/2419101/1/live
+138,16/07/2017 19:00h,Bahia,Avaí,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/avai/2419103/1/live
+139,17/07/2017 20:00h,Botafogo,Sport,2-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/sport/2419096/1/live
+140,19/07/2017 19:30h,Santos,Chapecoense,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/chapecoense/2419108/1/live
+141,19/07/2017 19:30h,Vitória,Grêmio,1-3,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/gremio/2419113/1/live
+142,19/07/2017 21:00h,Ponte Preta,Coritiba,4-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/coritiba/2419114/1/live
+143,19/07/2017 21:00h,Avaí,Corinthians,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/corinthians/2419115/1/live
+144,19/07/2017 21:45h,Flamengo,Palmeiras,2-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/palmeiras/2419107/1/live
+145,19/07/2017 21:45h,São Paulo,Vasco,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/vasco/2419109/1/live
+146,19/07/2017 21:45h,Atlético MG,Bahia,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/bahia/2419110/1/live
+147,20/07/2017 19:30h,Fluminense,Cruzeiro,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/cruzeiro/2419106/1/live
+148,20/07/2017 20:00h,Sport,Atlético GO,4-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/atletico-go/2419112/1/live
+149,20/07/2017 21:00h,Atlético PR,Botafogo,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/botafogo/2419111/1/live
+150,22/07/2017 16:00h,Vitória,Chapecoense,1-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/chapecoense/2419123/1/live
+151,22/07/2017 19:00h,Flamengo,Coritiba,2-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/coritiba/2419117/1/live
+152,23/07/2017 11:00h,Santos,Bahia,3-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/bahia/2419118/1/live
+153,23/07/2017 16:00h,Fluminense,Corinthians,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/corinthians/2419116/1/live
+154,23/07/2017 16:00h,Sport,Palmeiras,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/palmeiras/2419122/1/live
+155,23/07/2017 16:00h,Avaí,Cruzeiro,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/cruzeiro/2419125/1/live
+156,23/07/2017 19:00h,Atlético MG,Vasco,1-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/vasco/2419120/1/live
+157,23/07/2017 19:00h,Atlético PR,Ponte Preta,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/ponte-preta/2419121/1/live
+158,23/07/2017 19:00h,Atlético GO,Botafogo,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/botafogo/2419124/1/live
+159,24/07/2017 20:00h,São Paulo,Grêmio,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/gremio/2419119/1/live
+160,29/07/2017 16:00h,Botafogo,São Paulo,3-4,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/sao-paulo/2419126/1/live
+161,29/07/2017 19:00h,Palmeiras,Avaí,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/avai/2419128/1/live
+162,30/07/2017 11:00h,Chapecoense,Atlético GO,1-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/atletico-go/2419135/1/live
+163,30/07/2017 16:00h,Corinthians,Flamengo,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/flamengo/2419129/1/live
+164,30/07/2017 16:00h,Coritiba,Atlético MG,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/atletico-mg/2419131/1/live
+165,30/07/2017 16:00h,Bahia,Sport,1-3,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/sport/2419133/1/live
+166,30/07/2017 19:00h,Cruzeiro,Vitória,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/vitoria/2419130/1/live
+167,30/07/2017 19:00h,Grêmio,Santos,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/santos/2419132/1/live
+168,31/07/2017 20:00h,Vasco,Atlético PR,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/atletico-pr/2419127/1/live
+169,02/08/2017 19:30h,Sport,Fluminense,2-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/fluminense/2419142/1/live
+170,02/08/2017 19:30h,Chapecoense,Bahia,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/bahia/2419145/1/live
+171,02/08/2017 21:00h,Atlético MG,Corinthians,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/corinthians/2419140/1/live
+172,02/08/2017 21:00h,Vitória,Ponte Preta,3-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/ponte-preta/2419143/1/live
+173,02/08/2017 21:45h,Botafogo,Palmeiras,1-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/palmeiras/2419136/1/live
+174,02/08/2017 21:45h,Santos,Flamengo,3-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/flamengo/2419138/1/live
+175,02/08/2017 21:45h,Atlético GO,Grêmio,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/gremio/2419144/1/live
+176,03/08/2017 19:30h,São Paulo,Coritiba,1-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/coritiba/2419139/1/live
+177,03/08/2017 19:30h,Atlético PR,Avaí,5-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/avai/2419141/1/live
+178,03/08/2017 20:00h,Vasco,Cruzeiro,0-3,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/cruzeiro/2419137/1/live
+179,05/08/2017 19:00h,Fluminense,Atlético GO,3-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/atletico-go/2419146/1/live
+180,05/08/2017 19:00h,Corinthians,Sport,3-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/sport/2419149/1/live
+181,06/08/2017 11:00h,Flamengo,Vitória,0-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/vitoria/2419147/1/live
+182,06/08/2017 16:00h,Palmeiras,Atlético PR,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/atletico-pr/2419148/1/live
+183,06/08/2017 16:00h,Cruzeiro,Botafogo,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/botafogo/2419150/1/live
+184,06/08/2017 16:00h,Coritiba,Chapecoense,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/chapecoense/2419151/1/live
+185,06/08/2017 16:00h,Grêmio,Atlético MG,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/atletico-mg/2419152/1/live
+186,06/08/2017 16:00h,Bahia,São Paulo,2-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/sao-paulo/2419153/1/live
+187,06/08/2017 19:00h,Ponte Preta,Vasco,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/vasco/2419154/1/live
+188,06/08/2017 19:00h,Avaí,Santos,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/santos/2419155/1/live
+189,09/08/2017 20:00h,Ponte Preta,Fluminense,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/fluminense/2419134/1/live
+190,12/08/2017 16:00h,Atlético GO,Coritiba,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/coritiba/2419164/1/live
+191,12/08/2017 19:00h,Vitória,Avaí,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/avai/2419163/1/live
+192,13/08/2017 11:00h,São Paulo,Cruzeiro,3-2,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/cruzeiro/2419159/1/live
+193,13/08/2017 16:00h,Vasco,Palmeiras,1-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/palmeiras/2419157/1/live
+194,13/08/2017 16:00h,Atlético MG,Flamengo,2-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/flamengo/2419160/1/live
+195,13/08/2017 16:00h,Sport,Ponte Preta,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/ponte-preta/2419162/1/live
+196,13/08/2017 19:00h,Botafogo,Grêmio,1-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/gremio/2419156/1/live
+197,13/08/2017 19:00h,Atlético PR,Bahia,4-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/bahia/2419161/1/live
+198,14/08/2017 20:00h,Santos,Fluminense,0-0,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/fluminense/2419158/1/live
+199,19/08/2017 16:00h,Corinthians,Vitória,0-1,gsm_id_2418967,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/vitoria/2419169/1/live
+200,19/08/2017 19:00h,Flamengo,Atlético GO,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/atletico-go/2419167/1/live
+201,20/08/2017 11:00h,Grêmio,Atlético PR,0-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/atletico-pr/2419172/1/live
+202,20/08/2017 16:00h,Cruzeiro,Sport,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/sport/2419170/1/live
+203,20/08/2017 16:00h,Bahia,Vasco,3-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/vasco/2419173/1/live
+204,20/08/2017 16:00h,Ponte Preta,Botafogo,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/botafogo/2419174/1/live
+205,20/08/2017 16:00h,Avaí,São Paulo,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/sao-paulo/2419175/1/live
+206,20/08/2017 19:00h,Palmeiras,Chapecoense,0-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/chapecoense/2419168/1/live
+207,20/08/2017 19:00h,Coritiba,Santos,0-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/santos/2419171/1/live
+208,21/08/2017 20:00h,Fluminense,Atlético MG,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/atletico-mg/2419166/1/live
+209,23/08/2017 19:30h,Chapecoense,Corinthians,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/corinthians/2419165/1/live
+210,26/08/2017 16:00h,Fluminense,Vasco,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/vasco/2419176/1/live
+211,26/08/2017 19:00h,Corinthians,Atlético GO,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/atletico-go/2419179/1/live
+212,27/08/2017 16:00h,Flamengo,Atlético PR,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/atletico-pr/2419177/1/live
+213,27/08/2017 16:00h,Palmeiras,São Paulo,4-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/sao-paulo/2419178/1/live
+214,27/08/2017 16:00h,Bahia,Botafogo,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/botafogo/2419183/1/live
+215,27/08/2017 16:00h,Ponte Preta,Atlético MG,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/atletico-mg/2419184/1/live
+216,27/08/2017 19:00h,Cruzeiro,Santos,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/santos/2419180/1/live
+217,27/08/2017 19:00h,Avaí,Chapecoense,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/chapecoense/2419185/1/live
+218,28/08/2017 20:00h,Coritiba,Vitória,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/vitoria/2419181/1/live
+219,02/09/2017 16:00h,Grêmio,Sport,5-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/sport/2419182/1/live
+220,09/09/2017 16:00h,Atlético MG,Palmeiras,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/palmeiras/2419190/1/live
+221,09/09/2017 18:00h,Vasco,Grêmio,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/gremio/2419187/1/live
+222,09/09/2017 19:00h,São Paulo,Ponte Preta,2-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/ponte-preta/2419189/1/live
+223,10/09/2017 11:00h,Atlético PR,Coritiba,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/coritiba/2419191/1/live
+224,10/09/2017 16:00h,Santos,Corinthians,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/corinthians/2419188/1/live
+225,10/09/2017 16:00h,Sport,Avaí,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/avai/2419192/1/live
+226,10/09/2017 16:00h,Vitória,Fluminense,2-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/fluminense/2419193/1/live
+227,10/09/2017 19:00h,Botafogo,Flamengo,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/flamengo/2419186/1/live
+228,10/09/2017 19:00h,Chapecoense,Cruzeiro,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/cruzeiro/2419195/1/live
+229,11/09/2017 20:00h,Atlético GO,Bahia,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/bahia/2419194/1/live
+230,16/09/2017 19:00h,Botafogo,Santos,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/santos/2419196/1/live
+231,16/09/2017 21:00h,Ponte Preta,Atlético GO,1-3,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/atletico-go/2419204/1/live
+232,17/09/2017 11:00h,Avaí,Atlético MG,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/atletico-mg/2419205/1/live
+233,17/09/2017 16:00h,Atlético PR,Fluminense,3-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/fluminense/2419201/1/live
+234,17/09/2017 16:00h,Grêmio,Chapecoense,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/chapecoense/2419202/1/live
+235,17/09/2017 16:00h,Vitória,São Paulo,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/sao-paulo/2419203/1/live
+236,17/09/2017 16:00h,Flamengo,Sport,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/sport/2419197/1/live
+237,17/09/2017 16:00h,Corinthians,Vasco,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/vasco/2419199/1/live
+238,17/09/2017 19:00h,Cruzeiro,Bahia,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/bahia/2419200/1/live
+239,18/09/2017 20:00h,Palmeiras,Coritiba,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/coritiba/2419198/1/live
+240,23/09/2017 19:00h,Flamengo,Avaí,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/avai/2419207/1/live
+241,23/09/2017 21:00h,Santos,Atlético PR,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/atletico-pr/2419208/1/live
+242,24/09/2017 11:00h,São Paulo,Corinthians,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/corinthians/2419209/1/live
+243,24/09/2017 16:00h,Fluminense,Palmeiras,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/palmeiras/2419206/1/live
+244,24/09/2017 16:00h,Coritiba,Botafogo,2-3,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/botafogo/2419211/1/live
+245,24/09/2017 16:00h,Atlético GO,Cruzeiro,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/cruzeiro/2419214/1/live
+246,24/09/2017 16:00h,Chapecoense,Ponte Preta,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/ponte-preta/2419215/1/live
+247,24/09/2017 19:00h,Atlético MG,Vitória,1-3,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/vitoria/2419210/1/live
+248,24/09/2017 19:00h,Bahia,Grêmio,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/gremio/2419213/1/live
+249,25/09/2017 20:00h,Sport,Vasco,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/vasco/2419212/1/live
+250,30/09/2017 16:00h,Vasco,Chapecoense,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/chapecoense/2419217/1/live
+251,30/09/2017 16:00h,Bahia,Coritiba,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/coritiba/2419223/1/live
+252,30/09/2017 19:00h,Palmeiras,Santos,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/santos/2419218/1/live
+253,01/10/2017 16:00h,Botafogo,Vitória,2-3,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/vitoria/2419216/1/live
+254,01/10/2017 16:00h,São Paulo,Sport,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/sport/2419219/1/live
+255,01/10/2017 16:00h,Cruzeiro,Corinthians,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/corinthians/2419220/1/live
+256,01/10/2017 16:00h,Grêmio,Fluminense,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/fluminense/2419222/1/live
+257,01/10/2017 16:00h,Avaí,Atlético GO,0-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/atletico-go/2419225/1/live
+258,01/10/2017 19:00h,Atlético PR,Atlético MG,0-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/atletico-mg/2419221/1/live
+259,02/10/2017 20:00h,Ponte Preta,Flamengo,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/flamengo/2419224/1/live
+260,07/10/2017 16:00h,Cruzeiro,Ponte Preta,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/ponte-preta/2419240/1/live
+261,11/10/2017 19:30h,Botafogo,Chapecoense,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/chapecoense/2419226/1/live
+262,11/10/2017 19:30h,Atlético PR,Atlético GO,2-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/atletico-go/2419231/1/live
+263,11/10/2017 21:00h,Corinthians,Coritiba,3-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/coritiba/2419229/1/live
+264,11/10/2017 21:45h,Atlético MG,São Paulo,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/sao-paulo/2419230/1/live
+265,11/10/2017 21:45h,Grêmio,Cruzeiro,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/cruzeiro/2419232/1/live
+266,11/10/2017 21:45h,Avaí,Vasco,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/vasco/2419235/1/live
+267,12/10/2017 17:00h,Flamengo,Fluminense,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/fluminense/2419227/1/live
+268,12/10/2017 17:00h,Vitória,Sport,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/sport/2419233/1/live
+269,12/10/2017 17:00h,Ponte Preta,Santos,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/santos/2419234/1/live
+270,12/10/2017 21:00h,Palmeiras,Bahia,2-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/bahia/2419228/1/live
+271,14/10/2017 19:00h,Vasco,Botafogo,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/botafogo/2419237/1/live
+272,14/10/2017 21:00h,São Paulo,Atlético PR,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/atletico-pr/2419239/1/live
+273,15/10/2017 17:00h,Fluminense,Avaí,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/avai/2419236/1/live
+274,15/10/2017 17:00h,Sport,Atlético MG,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/atletico-mg/2419242/1/live
+275,15/10/2017 17:00h,Atlético GO,Palmeiras,1-3,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/palmeiras/2419244/1/live
+276,15/10/2017 17:00h,Chapecoense,Flamengo,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/flamengo/2419245/1/live
+277,15/10/2017 19:00h,Coritiba,Grêmio,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/gremio/2419241/1/live
+278,15/10/2017 19:00h,Bahia,Corinthians,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/corinthians/2419243/1/live
+279,16/10/2017 20:00h,Santos,Vitória,2-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/vitoria/2419238/1/live
+280,18/10/2017 19:30h,Coritiba,Cruzeiro,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/cruzeiro/2419251/1/live
+281,18/10/2017 19:30h,Atlético GO,Vasco,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/vasco/2419254/1/live
+282,18/10/2017 21:00h,Atlético MG,Chapecoense,2-3,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/chapecoense/2419250/1/live
+283,18/10/2017 21:45h,Fluminense,São Paulo,3-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/sao-paulo/2419246/1/live
+284,18/10/2017 21:45h,Corinthians,Grêmio,0-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/gremio/2419249/1/live
+285,18/10/2017 21:45h,Avaí,Botafogo,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/botafogo/2419255/1/live
+286,19/10/2017 20:00h,Palmeiras,Ponte Preta,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/ponte-preta/2419248/1/live
+287,19/10/2017 20:00h,Vitória,Atlético PR,2-3,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/atletico-pr/2419253/1/live
+288,19/10/2017 21:00h,Flamengo,Bahia,4-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/bahia/2419247/1/live
+289,19/10/2017 21:00h,Sport,Santos,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/santos/2419252/1/live
+290,21/10/2017 17:00h,Vasco,Coritiba,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/coritiba/2419257/1/live
+291,22/10/2017 17:00h,Santos,Atlético GO,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/atletico-go/2419258/1/live
+292,22/10/2017 17:00h,São Paulo,Flamengo,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/flamengo/2419259/1/live
+293,22/10/2017 17:00h,Cruzeiro,Atlético MG,1-3,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/atletico-mg/2419260/1/live
+294,22/10/2017 17:00h,Atlético PR,Sport,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/sport/2419261/1/live
+295,22/10/2017 17:00h,Grêmio,Palmeiras,1-3,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/palmeiras/2419262/1/live
+296,22/10/2017 17:00h,Bahia,Vitória,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/vitoria/2419263/1/live
+297,22/10/2017 19:00h,Ponte Preta,Avaí,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/avai/2419264/1/live
+298,22/10/2017 19:00h,Chapecoense,Fluminense,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/fluminense/2419265/1/live
+299,23/10/2017 20:00h,Botafogo,Corinthians,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/corinthians/2419256/1/live
+300,28/10/2017 17:00h,São Paulo,Santos,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/santos/2419269/1/live
+301,28/10/2017 19:00h,Flamengo,Vasco,0-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/vasco/2419267/1/live
+302,28/10/2017 21:00h,Atlético PR,Chapecoense,0-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/chapecoense/2419271/1/live
+303,29/10/2017 17:00h,Fluminense,Bahia,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/bahia/2419266/1/live
+304,29/10/2017 17:00h,Atlético MG,Botafogo,0-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/botafogo/2419270/1/live
+305,29/10/2017 17:00h,Ponte Preta,Corinthians,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/corinthians/2419274/1/live
+306,29/10/2017 18:00h,Sport,Coritiba,3-4,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/coritiba/2419272/1/live
+307,29/10/2017 18:00h,Vitória,Atlético GO,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/atletico-go/2419273/1/live
+308,29/10/2017 19:00h,Avaí,Grêmio,2-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/gremio/2419275/1/live
+309,30/10/2017 20:00h,Palmeiras,Cruzeiro,2-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/cruzeiro/2419268/1/live
+310,04/11/2017 17:00h,Santos,Atlético MG,3-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/atletico-mg/2419278/1/live
+311,04/11/2017 19:00h,Botafogo,Fluminense,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/fluminense/2419276/1/live
+312,04/11/2017 19:00h,Atlético GO,São Paulo,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/sao-paulo/2419284/1/live
+313,04/11/2017 21:00h,Coritiba,Avaí,4-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/avai/2419281/1/live
+314,05/11/2017 17:00h,Corinthians,Palmeiras,3-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/palmeiras/2419279/1/live
+315,05/11/2017 17:00h,Cruzeiro,Atlético PR,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/atletico-pr/2419280/1/live
+316,05/11/2017 17:00h,Grêmio,Flamengo,3-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/flamengo/2419282/1/live
+317,05/11/2017 18:00h,Bahia,Ponte Preta,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/ponte-preta/2419283/1/live
+318,05/11/2017 19:00h,Vasco,Vitória,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/vitoria/2419277/1/live
+319,05/11/2017 19:00h,Chapecoense,Sport,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/sport/2419285/1/live
+320,08/11/2017 19:30h,Ponte Preta,Grêmio,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/gremio/2419294/1/live
+321,08/11/2017 19:30h,Avaí,Bahia,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/bahia/2419295/1/live
+322,08/11/2017 21:00h,Atlético PR,Corinthians,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/corinthians/2419291/1/live
+323,08/11/2017 21:00h,Sport,Botafogo,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/botafogo/2419292/1/live
+324,08/11/2017 21:45h,Flamengo,Cruzeiro,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/cruzeiro/2419287/1/live
+325,08/11/2017 21:45h,Santos,Vasco,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/vasco/2419288/1/live
+326,08/11/2017 21:45h,Vitória,Palmeiras,3-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/palmeiras/2419293/1/live
+327,09/11/2017 20:00h,São Paulo,Chapecoense,2-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/chapecoense/2419289/1/live
+328,09/11/2017 20:00h,Atlético MG,Atlético GO,3-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/atletico-go/2419290/1/live
+329,09/11/2017 21:00h,Fluminense,Coritiba,2-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/coritiba/2419286/1/live
+330,11/11/2017 17:00h,Botafogo,Atlético PR,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/atletico-pr/2419296/1/live
+331,11/11/2017 19:00h,Corinthians,Avaí,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/avai/2419299/1/live
+332,12/11/2017 17:00h,Vasco,São Paulo,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/sao-paulo/2419297/1/live
+333,12/11/2017 17:00h,Palmeiras,Flamengo,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/flamengo/2419298/1/live
+334,12/11/2017 17:00h,Grêmio,Vitória,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/vitoria/2419302/1/live
+335,12/11/2017 17:00h,Atlético GO,Sport,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/sport/2419304/1/live
+336,12/11/2017 18:00h,Bahia,Atlético MG,2-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/atletico-mg/2419303/1/live
+337,12/11/2017 19:00h,Cruzeiro,Fluminense,3-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/fluminense/2419300/1/live
+338,12/11/2017 19:00h,Coritiba,Ponte Preta,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/ponte-preta/2419301/1/live
+339,13/11/2017 20:00h,Chapecoense,Santos,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/santos/2419305/1/live
+340,15/11/2017 17:00h,Ponte Preta,Atlético PR,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/atletico-pr/2419314/1/live
+341,15/11/2017 19:30h,Cruzeiro,Avaí,2-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/avai/2419310/1/live
+342,15/11/2017 19:30h,Grêmio,São Paulo,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/sao-paulo/2419312/1/live
+343,15/11/2017 21:45h,Vasco,Atlético MG,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/atletico-mg/2419307/1/live
+344,15/11/2017 21:45h,Corinthians,Fluminense,3-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/fluminense/2419309/1/live
+345,16/11/2017 20:00h,Botafogo,Atlético GO,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/atletico-go/2419306/1/live
+346,16/11/2017 20:00h,Palmeiras,Sport,5-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/sport/2419308/1/live
+347,16/11/2017 20:00h,Chapecoense,Vitória,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/vitoria/2419315/1/live
+348,16/11/2017 21:00h,Coritiba,Flamengo,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/flamengo/2419311/1/live
+349,16/11/2017 21:00h,Bahia,Santos,3-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/santos/2419313/1/live
+350,19/11/2017 17:00h,Flamengo,Corinthians,3-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/corinthians/2419317/1/live
+351,19/11/2017 17:00h,São Paulo,Botafogo,0-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/botafogo/2419319/1/live
+352,19/11/2017 17:00h,Sport,Bahia,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/bahia/2419322/1/live
+353,19/11/2017 17:00h,Vitória,Cruzeiro,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/cruzeiro/2419323/1/live
+354,19/11/2017 17:00h,Atlético GO,Chapecoense,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/chapecoense/2419324/1/live
+355,19/11/2017 19:00h,Santos,Grêmio,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/gremio/2419318/1/live
+356,19/11/2017 19:00h,Atlético MG,Coritiba,3-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/coritiba/2419320/1/live
+357,19/11/2017 19:00h,Atlético PR,Vasco,3-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/vasco/2419321/1/live
+358,20/11/2017 17:00h,Fluminense,Ponte Preta,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/ponte-preta/2419316/1/live
+359,20/11/2017 20:00h,Avaí,Palmeiras,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/palmeiras/2419325/1/live
+360,25/11/2017 17:00h,Fluminense,Sport,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/fluminense/sport/2419326/1/live
+361,26/11/2017 17:00h,Corinthians,Atlético MG,2-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/corinthians/atletico-mg/2419329/1/live
+362,26/11/2017 17:00h,Cruzeiro,Vasco,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/cruzeiro/vasco/2419330/1/live
+363,26/11/2017 17:00h,Coritiba,São Paulo,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/coritiba/sao-paulo/2419331/1/live
+364,26/11/2017 17:00h,Grêmio,Atlético GO,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/gremio/atletico-go/2419332/1/live
+365,26/11/2017 17:00h,Ponte Preta,Vitória,2-3,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/ponte-preta/vitoria/2419334/1/live
+366,26/11/2017 17:00h,Avaí,Atlético PR,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/avai/atletico-pr/2419335/1/live
+367,26/11/2017 19:00h,Flamengo,Santos,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/flamengo/santos/2419327/1/live
+368,26/11/2017 19:00h,Bahia,Chapecoense,0-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/bahia/chapecoense/2419333/1/live
+369,27/11/2017 20:00h,Palmeiras,Botafogo,2-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/palmeiras/botafogo/2419328/1/live
+370,03/12/2017 17:00h,Botafogo,Cruzeiro,2-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/botafogo/cruzeiro/2419336/1/live
+371,03/12/2017 17:00h,Vasco,Ponte Preta,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vasco/ponte-preta/2419337/1/live
+372,03/12/2017 17:00h,Santos,Avaí,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/santos/avai/2419338/1/live
+373,03/12/2017 17:00h,São Paulo,Bahia,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sao-paulo/bahia/2419339/1/live
+374,03/12/2017 17:00h,Atlético MG,Grêmio,4-3,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-mg/gremio/2419340/1/live
+375,03/12/2017 17:00h,Atlético PR,Palmeiras,3-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-pr/palmeiras/2419341/1/live
+376,03/12/2017 17:00h,Sport,Corinthians,1-0,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/sport/corinthians/2419342/1/live
+377,03/12/2017 17:00h,Vitória,Flamengo,1-2,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/vitoria/flamengo/2419343/1/live
+378,03/12/2017 17:00h,Atlético GO,Fluminense,1-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/atletico-go/fluminense/2419344/1/live
+379,03/12/2017 17:00h,Chapecoense,Coritiba,2-1,gsm_id_2419167,https://www.academiadasapostasbrasil.com/stats/match/brasil-stats/brasileirao-serie-a/chapecoense/coritiba/2419345/1/live
