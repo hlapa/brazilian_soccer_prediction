@@ -1,10 +1,20 @@
+import time
+import numpy as np
+from random_ua import get_random_ua
+
 def GameFeatures(url):
 
 	def prepareDoc(url):
 		'''
 		This function retrieve and parse the data
 		'''
-		response = get(url, verify=False)
+		headers = utils.default_headers()
+		#headers['User-Agent'] = get_random_ua()
+        #headers['User-Agent'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
+		response = get(url, headers = headers, proxies={'http':'77.232.136.121'}, verify=False)
+		#delays = [1]
+		#delay = np.random.choice(delays)
+		time.sleep(1)
 		doc = BeautifulSoup(response.content, 'html.parser')
 		return doc
 
@@ -29,12 +39,25 @@ def GameFeatures(url):
 		'''
 		This function prepares de events element, this element contais data about goals, cards and substitution
 		'''
+		#prepareEventsTag2(doc)
 		events = doc.findAll('tbody', 'stat-quarts-padding')
 		first_half = events[0]
 		second_half = events[1]
 		events1st = first_half.findAll('tr')
 		events2nd = second_half.findAll('tr')
 		return events1st, events2nd	
+	
+	def prepareEventsTag2(doc):
+		'''
+		This function prepares de events element, this element contais data about goals, cards and substitution
+		'''
+		events = doc.findAll('tbody', 'stat-quarts-padding')
+		first_half = doc.find('table', id='first-half-summary')
+		second_half = doc.find('table', id='second-half-summary')
+		events1st = first_half.tbody.findAll('tr')
+		events2nd = second_half.tbody.findAll('tr')
+		return events1st, events2nd	
+	
 
 	def getEvents(events):
 		'''
@@ -42,7 +65,7 @@ def GameFeatures(url):
 		'''
 
 		eventList=[]
-
+		
 		for n in range(1,len(events)):
 			kind = events[n].span.get('title')
 			if events[n].div.get('style') == 'float:left':
@@ -62,7 +85,10 @@ def GameFeatures(url):
 			                }
 			else:
 			    playerIn = events[n].div.text.strip()
-			    playerOut = events[n].findAll('a')[1].text.strip()
+			    playerOut = 'PLAYER OUT NOT DEFINED'
+			    if (len(events[n].findAll('a')) == 2):
+    				    playerOut = events[n].findAll('a')[1].text.strip()
+				
 			    eventDict = {'time':time,
 			                'kind':kind,
 			                'hometeam':hometeam,
@@ -114,12 +140,12 @@ def GameFeatures(url):
 	'''
 	This function captures features
 	'''
-	from requests import get
+	from requests import get, utils
 	from bs4 import BeautifulSoup
 
 	doc = prepareDoc(url)
 	home_team, away_team, home_team_score, away_team_score, referee, stadium, city, datetime, game = getInfo(doc)
-	events1st, events2nd = prepareEventsTag(doc)	
+	events1st, events2nd = prepareEventsTag2(doc)	
 	eventList1st = getEvents(events1st)
 	eventList2nd = getEvents(events2nd)
 	lineup, sublineup = prepareLineup(doc)
