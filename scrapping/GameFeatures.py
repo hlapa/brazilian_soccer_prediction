@@ -23,8 +23,8 @@ def GameFeatures(url):
 		This function retrieves information that are not contained in tables,
 		they are returned in this order: home_team, away_team, score, 
 		'''
-		home_team = doc.findAll('td', 'stats-game-head-teamname hide-mobile')[0].text.split()[0]
-		away_team = doc.findAll('td', 'stats-game-head-teamname hide-mobile')[1].text.split()[0]
+		home_team = doc.findAll('td', 'stats-game-head-teamname hide-mobile')[0].text.strip()
+		away_team = doc.findAll('td', 'stats-game-head-teamname hide-mobile')[1].text.strip()
 		score = doc.findAll('span', 'match-full-result')
 		home_team_score = score[0].text.split()[0]
 		away_team_score = score[0].text.split()[2]
