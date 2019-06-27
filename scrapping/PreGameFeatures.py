@@ -86,7 +86,7 @@ class PreGameFeatures:
 		games_without_lose_away = games_without_lose[away].text
 		games_without_lose_global = games_without_lose[global_].text
 	
-		PreGameStats = {'current_wins_home':current_wins_home,
+		PreGameStats = ['current_wins_home':current_wins_home,
 				        'current_wins_away':current_wins_away,
 				        'current_wins_global':current_wins_global,
 				        'current_draws_home':current_draws_home,
@@ -103,6 +103,6 @@ class PreGameFeatures:
 				        'games_without_draw_global':games_without_draw_global,
 				        'games_without_lose_home':games_without_lose_home,
 				        'games_without_lose_away':games_without_lose_away,
-				        'games_without_lose_global':games_without_lose_global}
+				        'games_without_lose_global':games_without_lose_global]
 
 		return PreGameStats		       
