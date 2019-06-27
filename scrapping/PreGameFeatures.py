@@ -1,5 +1,6 @@
 from requests import get
 from bs4 import BeautifulSoup
+import time
 
 class PreGameFeatures:
     	
@@ -21,6 +22,7 @@ class PreGameFeatures:
 		This function retrieve and parse the data
 		'''	
 		response = get(url, verify=False)
+		time.sleep(1)
 		doc = BeautifulSoup(response.content, 'html.parser')
 		return doc
 
