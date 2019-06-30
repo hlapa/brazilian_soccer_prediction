@@ -15,7 +15,7 @@ class PreGameFeatures:
 		homePreGameStats = self.home_last_game_results(self.content_parsed)
 		awayPreGameStats = self.away_last_game_results(self.content_parsed)
 
-		return homePreGameStats, awayPreGameStats
+		return {**homePreGameStats, **awayPreGameStats}
 
 	def document_parser(self, url):
 		'''
@@ -45,6 +45,7 @@ class PreGameFeatures:
 		home = 1
 		away = 2
 		global_ = 3
+		key_prefix = 'ht_' if team_index == 0 else 'at_'
 
 		teams_games = self.element_game_results(doc)
 		last_games = teams_games[team_index].find('tbody').find_all('tr')
@@ -86,23 +87,23 @@ class PreGameFeatures:
 		games_without_lose_away = games_without_lose[away].text
 		games_without_lose_global = games_without_lose[global_].text
 	
-		PreGameStats = ['current_wins_home':current_wins_home,
-				        'current_wins_away':current_wins_away,
-				        'current_wins_global':current_wins_global,
-				        'current_draws_home':current_draws_home,
-				        'current_draws_away':current_draws_away,
-				        'current_draws_global':current_draws_global,
-				        'current_loss_home':current_loss_home,
-				        'current_loss_away':current_loss_away,
-				        'current_loss_global':current_loss_global,
-				        'games_without_win_home':games_without_win_home,
-				        'games_without_win_away':games_without_win_away,
-				        'games_without_win_global':games_without_win_global,
-				        'games_without_draw_home':games_without_draw_home,
-				        'games_without_draw_away':games_without_draw_away,
-				        'games_without_draw_global':games_without_draw_global,
-				        'games_without_lose_home':games_without_lose_home,
-				        'games_without_lose_away':games_without_lose_away,
-				        'games_without_lose_global':games_without_lose_global]
+		PreGameStats = {f'{key_prefix}current_wins_home':current_wins_home,
+				        f'{key_prefix}current_wins_away':current_wins_away,
+				        f'{key_prefix}current_wins_global':current_wins_global,
+				        f'{key_prefix}current_draws_home':current_draws_home,
+				        f'{key_prefix}current_draws_away':current_draws_away,
+				        f'{key_prefix}current_draws_global':current_draws_global,
+				        f'{key_prefix}current_loss_home':current_loss_home,
+				        f'{key_prefix}current_loss_away':current_loss_away,
+				        f'{key_prefix}current_loss_global':current_loss_global,
+				        f'{key_prefix}games_without_win_home':games_without_win_home,
+				        f'{key_prefix}games_without_win_away':games_without_win_away,
+				        f'{key_prefix}games_without_win_global':games_without_win_global,
+				        f'{key_prefix}games_without_draw_home':games_without_draw_home,
+				        f'{key_prefix}games_without_draw_away':games_without_draw_away,
+				        f'{key_prefix}games_without_draw_global':games_without_draw_global,
+				        f'{key_prefix}games_without_lose_home':games_without_lose_home,
+				        f'{key_prefix}games_without_lose_away':games_without_lose_away,
+				        f'{key_prefix}games_without_lose_global':games_without_lose_global}
 
 		return PreGameStats		       

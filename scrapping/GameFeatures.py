@@ -11,9 +11,7 @@ def GameFeatures(url):
 		headers = utils.default_headers()
 		#headers['User-Agent'] = get_random_ua()
         #headers['User-Agent'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
-		response = get(url, headers = headers, proxies={'http':'77.232.136.121'}, verify=False)
-		#delays = [1]
-		#delay = np.random.choice(delays)
+		response = get(url, headers = headers, verify=False)
 		time.sleep(1)
 		doc = BeautifulSoup(response.content, 'html.parser')
 		return doc
@@ -143,6 +141,7 @@ def GameFeatures(url):
 	from requests import get, utils
 	from bs4 import BeautifulSoup
 
+    
 	doc = prepareDoc(url)
 	home_team, away_team, home_team_score, away_team_score, referee, stadium, city, datetime, game = getInfo(doc)
 	events1st, events2nd = prepareEventsTag2(doc)	
