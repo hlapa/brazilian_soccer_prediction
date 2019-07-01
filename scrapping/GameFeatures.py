@@ -127,11 +127,12 @@ def GameFeatures(url):
 	    statsAway={}
 	    stats = doc.findAll('table', 'match_stats_center')[0].findAll('tr')
 	    for n in range(len(stats)):
-	        stat = stats[n].get('class')[0]
-	        home_stat = stats[n].findAll('td', 'stat_value_number_team_A')[0].text.strip()
-	        away_stat = stats[n].findAll('td', 'stat_value_number_team_B')[0].text.strip()
-	        statsHome[stat] = home_stat
-	        statsAway[stat] = away_stat
+	        td_stat = stats[n].findAll('td')
+	        stat = td_stat[2].text.strip()
+	        home_stat = td_stat[1].text.strip()
+	        away_stat = td_stat[3].text.strip()
+	        statsHome[f'h_{stat}'] = home_stat
+	        statsAway[f'a_{stat}'] = away_stat
 	    return statsHome, statsAway
 
 
