@@ -1,6 +1,7 @@
 import time
 import numpy as np
 from random_ua import get_random_ua
+import re
 
 def GameFeatures(url):
 
@@ -30,7 +31,9 @@ def GameFeatures(url):
 		stadium = doc.findAll('table', 'match-stadium')[0].findAll('td')[1].text
 		city = doc.findAll('table', 'match-stadium')[0].findAll('td')[3].text
 		datetime = doc.findAll('li', 'gamehead')[1].text
-		game = doc.findAll('li', 'gamehead')[4].text.strip()[-1]
+		game_text = doc.findAll('li', 'gamehead')[4].text.strip()
+		game_match = re.findall("[0-3]*[0-9]", game_text)
+		game = -1 if len(game_match)== 0 else int(game_match[0])
 		return home_team, away_team, home_team_score, away_team_score, referee, stadium, city, datetime, game
 
 	def prepareEventsTag(doc):
