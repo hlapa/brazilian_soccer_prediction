@@ -1,12 +1,14 @@
 from requests import get
 from bs4 import BeautifulSoup
+import re
 import time
 
 class PreGameFeatures:
     	
-	def __init__(self, url):
+	def __init__(self, url, home_team, away_team):
 		self.content_parsed = self.document_parser(url)
-		#self.build()
+		self.home_team = home_team
+		self.away_team = away_team
 
 	def build(self):
 		'''
@@ -14,8 +16,9 @@ class PreGameFeatures:
 		'''
 		homePreGameStats = self.home_last_game_results(self.content_parsed)
 		awayPreGameStats = self.away_last_game_results(self.content_parsed)
+		classification = {'ht_current_classification': self.team_classification(self.content_parsed, self.home_team), 'at_current_classification' : self.team_classification(self.content_parsed, self.away_team)}
 
-		return {**homePreGameStats, **awayPreGameStats}
+		return {**homePreGameStats, **awayPreGameStats, **classification}
 
 	def document_parser(self, url):
 		'''
@@ -25,6 +28,11 @@ class PreGameFeatures:
 		time.sleep(1)
 		doc = BeautifulSoup(response.content, 'html.parser')
 		return doc
+    
+	def team_classification(self, doc, team):
+		regex_team = re.compile(r"^\s+{0}".format(team), re.MULTILINE)
+		content_position = doc.find('table', class_='results competition-rounds competition-half-padding').find('a', string=regex_team).find_parent('tr').td.contents[0].strip()
+		return content_position
 
 	def home_last_game_results(self, doc):
     		PreGameStats = self.last_game_results(doc, 0 )
